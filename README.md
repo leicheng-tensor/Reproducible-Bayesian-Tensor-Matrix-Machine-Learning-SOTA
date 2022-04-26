@@ -39,4 +39,7 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 
 
 ## Bayesian Tensor Tucker Decomposition 
+- TBA
 
+## Bayesian Tensor Ring Decompositon
+- TBA

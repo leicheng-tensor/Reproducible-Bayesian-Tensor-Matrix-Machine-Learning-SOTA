@@ -36,3 +36,7 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 
 - Bayesian Tensor Train Decomposition Based Neural Network Compression [\[Code\]](https://github.com/colehawkins/bayesian-tensor-rank-determination) [\[PDF\]](https://arxiv.org/abs/2010.08689)
   - Reference:  C. Hawkins, X. Liu and Z.Zhang, "Towards compact neural networks via end-to-end training: a Bayesian tensor approach with automatic rank determination," SIAM Journal on Mathematics of Data Science, vol. 4, no. 1, pp. 46-71, Jan. 2022.
+
+
+## Bayesian Tensor Tucker Decomposition 
+

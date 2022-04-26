@@ -3,7 +3,7 @@
 Collection of state-of-the-art and reproducible Bayesian tensor/matrix machine learning works.
 
 - This list is maintained by:
-Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng#0), and Yik-Chung Wu [\[Website\]](https://www.eee.hku.hk/~ycwu/). 
+Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng#0), and Yik-Chung Wu [\[Website\]](https://www.eee.hku.hk/~ycwu/). 
  
 
 ## Bayesian Tensor Canonical Polyadic Decomposition (CPD)
@@ -44,5 +44,6 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
   - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in _IEEE Trans. on Image Processing_, vol. 30, pp. 3568-3580, 2021.
 
 
-## Bayesian Matrix Completion 
-- TBA
+## Graph-Aided Bayesian Matrix Completion 
+- Bayesian Matrix Completion With Graphs [\[Code\]]() [\[PDF\]](https://arxiv.org/abs/2203.10044)
+   - Reference: Yangge Chen, Lei Cheng#, and Yik-Chung Wu, 'Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference', arXiv preprint arXiv:2203.10044.

@@ -23,7 +23,7 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 
 - Bayesian Robust Tesnor CPD using Gaussian-Gamma Prior [\[Code\]](https://github.com/qbzhao/BRTF) [\[PDF\]](https://ieeexplore.ieee.org/document/7120147)
  
-  - Reference: Q. Zhao, G. Zhou, L. Zhang, A. Cichocki and S. -I. Amari, "Bayesian Robust Tensor Factorization for Incomplete Multiway Data," in IEEE Transactions on Neural Networks and Learning Systems, vol. 27, no. 4, pp. 736-748, 2016.
+  - Reference: Q. Zhao, G. Zhou, L. Zhang, A. Cichocki and S. -I. Amari, "Bayesian Robust Tensor Factorization for Incomplete Multiway Data," _IEEE Trans. on Neural Networks and Learning Systems_, vol. 27, no. 4, pp. 736-748, 2016.
  
 - Bayesian Tensor CPD using Gaussian-Gamma Prior [\[Code\]](https://github.com/qbzhao/BCPF) [\[PDF\]](https://ieeexplore.ieee.org/document/7010937)
 
@@ -36,9 +36,9 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
   - Reference: Le Xu, Lei Cheng, Ngai Wong, and Yik-Chung Wu, "Overfitting Avoidance in Tensor Train Factorization and Completion: Prior Analysis and Inference,"  _2021 IEEE International Conference on Data Mining (ICDM)_, 2021, pp. 1439-1444.
 
 - Bayesian Tensor Train Decomposition Based Neural Network Compression [\[Code\]](https://github.com/colehawkins/bayesian-tensor-rank-determination) [\[PDF\]](https://arxiv.org/abs/2010.08689)
-  - Reference:  C. Hawkins, X. Liu and Z.Zhang, "Towards compact neural networks via end-to-end training: a Bayesian tensor approach with automatic rank determination," SIAM Journal on Mathematics of Data Science, vol. 4, no. 1, pp. 46-71, Jan. 2022.
+  - Reference:  C. Hawkins, X. Liu and Z.Zhang, "Towards compact neural networks via end-to-end training: a Bayesian tensor approach with automatic rank determination," _SIAM Journal on Mathematics of Data Science_, vol. 4, no. 1, pp. 46-71, Jan. 2022.
 
 
 ## Bayesian Tensor Ring Decompositon
 - Bayesian Tensor Ring Decompositon [\[Code\]](https://github.com/yipengliu/bayesian_tensor_ring) [\[PDF\]](https://ieeexplore.ieee.org/document/9369109)
-  - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in IEEE Trans. on Image Processing, vol. 30, pp. 3568-3580, 2021.
+  - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in _IEEE Trans. on Image Processing_, vol. 30, pp. 3568-3580, 2021.

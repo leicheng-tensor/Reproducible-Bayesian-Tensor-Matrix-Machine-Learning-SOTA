@@ -21,7 +21,7 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 - Bayesian Tensor CPD with Orthogonal Factors [\[Code\]](https://github.com/leicheng-tensor/pcpd-orthogonal-) [\[PDF\]](https://ieeexplore.ieee.org/document/7555316/)
   - Reference: Lei Cheng, Yik-Chung Wu, and H. Vincent Poor, "Probabilistic Tensor Canonical Polyadic Decomposition With Orthogonal Factors," _IEEE Trans. on Signal Processing_, Vol. 65, no. 3, pp. 663-676, 2017.
 
-- Bayesian Robust Tesnor CPD using Gaussian-Gamma Prior [\[Code\]](https://github.com/qbzhao/BRTF) [\[PDF\]](https://ieeexplore.ieee.org/document/7120147)
+- Bayesian Robust Tesor CPD using Gaussian-Gamma Prior [\[Code\]](https://github.com/qbzhao/BRTF) [\[PDF\]](https://ieeexplore.ieee.org/document/7120147)
  
   - Reference: Q. Zhao, G. Zhou, L. Zhang, A. Cichocki and S. -I. Amari, "Bayesian Robust Tensor Factorization for Incomplete Multiway Data," _IEEE Trans. on Neural Networks and Learning Systems_, vol. 27, no. 4, pp. 736-748, 2016.
  

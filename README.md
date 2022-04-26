@@ -32,7 +32,7 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 
 ## Bayesian Tensor Train Decomposition
 
-- Bayesian Tensor Train Decomposition [\[Code\]]() [\[PDF\]](https://ieeexplore.ieee.org/document/9679150)
+- Bayesian Tensor Train Decomposition [\[Code\]](https://github.com/leicheng-tensor/VITTC) [\[PDF\]](https://ieeexplore.ieee.org/document/9679150)
   - Reference: Le Xu, Lei Cheng, Ngai Wong, and Yik-Chung Wu, "Overfitting Avoidance in Tensor Train Factorization and Completion: Prior Analysis and Inference,"  _2021 IEEE International Conference on Data Mining (ICDM)_, 2021, pp. 1439-1444.
 
 - Bayesian Tensor Train Decomposition Based Neural Network Compression [\[Code\]](https://github.com/colehawkins/bayesian-tensor-rank-determination) [\[PDF\]](https://arxiv.org/abs/2010.08689)

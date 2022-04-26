@@ -14,7 +14,7 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 - Bayesian Tensor CPD with Nonnegative Factors [\[Code\]](https://github.com/leicheng-tensor/pncpd) [\[PDF\]](https://ieeexplore.ieee.org/document/9006902)
   - Reference: Lei Cheng, Xueke Tong, Shuai Wang, Yik-Chung Wu, and H. Vincent Poor, "Learning Nonnegative Factors from Tensor Data: Probabilistic Modeling and Inference Algorithm," _IEEE Trans. on Signal Processing_, vol. 68, pp. 1792-1806, 2020.
 
-- Bayesian Robust Streaming CPD and Compltion [\[Code\]](https://github.com/colehawkins/Robust-Streaming-Tensor-Factorization)  [\[PDF\]](https://ieeexplore.ieee.org/document/8595009)
+- Bayesian Robust Streaming CPD and Completion [\[Code\]](https://github.com/colehawkins/Robust-Streaming-Tensor-Factorization)  [\[PDF\]](https://ieeexplore.ieee.org/document/8595009)
   - Reference: Z. Zhang and C. Hawkins, "Variational Bayesian Inference for Robust Streaming Tensor Factorization and Completion," _2018 IEEE International Conference on Data Mining (ICDM)_, 2018, pp. 1446-1451
 
 

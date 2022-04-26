@@ -42,3 +42,4 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 ## Bayesian Tensor Ring Decompositon
 - Bayesian Tensor Ring Decompositon [\[Code\]](https://github.com/yipengliu/bayesian_tensor_ring) [\[PDF\]](https://ieeexplore.ieee.org/document/9369109)
   - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in _IEEE Trans. on Image Processing_, vol. 30, pp. 3568-3580, 2021.
+

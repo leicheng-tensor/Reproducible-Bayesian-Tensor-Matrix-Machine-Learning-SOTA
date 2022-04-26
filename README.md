@@ -1,6 +1,6 @@
-# Reproducible-Bayesian-Tensor-Machine-Learning-SOTA
+# Reproducible-Bayesian-Tensor/Matrix-Machine-Learning-SOTA
 
-Collection of state-of-the-art and reproducible Bayesian tensor decomposition works.
+Collection of state-of-the-art and reproducible Bayesian tensor/matrix machine learning works.
 
 - This list is maintained by:
 Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng#0), and Yik-Chung Wu [\[Website\]](https://www.eee.hku.hk/~ycwu/). 
@@ -43,3 +43,6 @@ Zhongtao Chen, Le Xu, Lei Cheng [\[Website\]](https://person.zju.edu.cn/leicheng
 - Bayesian Tensor Ring Decompositon [\[Code\]](https://github.com/yipengliu/bayesian_tensor_ring) [\[PDF\]](https://ieeexplore.ieee.org/document/9369109)
   - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in _IEEE Trans. on Image Processing_, vol. 30, pp. 3568-3580, 2021.
 
+
+## Bayesian Matrix Completion 
+- TBA

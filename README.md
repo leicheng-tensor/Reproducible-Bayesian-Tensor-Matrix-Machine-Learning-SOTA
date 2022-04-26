@@ -43,6 +43,10 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 - Bayesian Tensor Ring Decompositon [\[Code\]](https://github.com/yipengliu/bayesian_tensor_ring) [\[PDF\]](https://ieeexplore.ieee.org/document/9369109)
   - Reference: Z. Long, C. Zhu, J. Liu and Y. Liu, "Bayesian Low Rank Tensor Ring for Image Recovery," in _IEEE Trans. on Image Processing_, vol. 30, pp. 3568-3580, 2021.
 
+## Bayesian Tensor t-SVD
+- Bayesian tensor t-SVD [\[Code\]](https://github.com/yangzhou12/BTRTF) [\[PDF\]](https://ieeexplore.ieee.org/document/8740980/media)
+  - Reference: Y. Zhou and Y. -M. Cheung, "Bayesian Low-Tubal-Rank Robust Tensor Factorization with Multi-Rank Determination," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 43, no. 1, pp. 62-76, 2021.
+
 
 ## Graph-Aided Bayesian Matrix Completion 
 - Bayesian Matrix Completion With Graphs [\[Code\]]() [\[PDF\]](https://arxiv.org/abs/2203.10044)

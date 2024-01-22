@@ -52,5 +52,5 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 
 
 ## Graph-Aided Bayesian Matrix Completion 
-- Bayesian Matrix Completion With Graphs [\[Code\]]() [\[PDF\]](https://arxiv.org/abs/2203.10044)
+- Bayesian Matrix Completion With Graphs [\[Code\]](https://github.com/leicheng-tensor/BMCG) [\[PDF\]](https://arxiv.org/abs/2203.10044)
    - Reference: Yangge Chen, Lei Cheng#, and Yik-Chung Wu, 'Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference', arXiv preprint arXiv:2203.10044.

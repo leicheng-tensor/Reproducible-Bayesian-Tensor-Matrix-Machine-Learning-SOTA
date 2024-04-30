@@ -10,6 +10,9 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 
 - Flexible Sparsity-Aware Bayesian Tensor CPD using GH prior  [\[Code\]](https://github.com/leicheng-tensor/pcpd_gh) [\[PDF\]](https://ieeexplore.ieee.org/document/9747988)
   - Reference: Lei Cheng, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu, and Sergios Theodoridis, "Towards Flexible Sparsity-Aware Modeling: Automatic Tensor Rank Learning using The Generalized Hyperbolic Prior," _IEEE Trans. on Signal Processing_, 2022.
+ 
+- Bayesian Tensor Tucker Completion With a Flexible Core [\[\Code\]](https://github.com/leicheng-tensor/BFCTC/tree/main) [\[PDF\]](https://ieeexplore.ieee.org/document/10305542)
+  - Reference: Xueke Tong, Lei Cheng, and Yik-Chung Wu, “Bayesian Tensor Tucker Completion With A Flexible Core,” _IEEE Trans. on Signal Processing_, 2023.
   
 - Accelerated Bayesian Tensor CPD With Nonnegative Factors [\[Code\]](https://github.com/leicheng-tensor/fast_pncpd)
   - Reference: Zhongtao Chen, Lei Cheng, and Yik-Chung Wu, "Accelerating Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach," _Signal Processing_, 2023.

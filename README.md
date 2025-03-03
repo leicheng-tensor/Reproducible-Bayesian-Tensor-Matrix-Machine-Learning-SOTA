@@ -10,9 +10,6 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 
 - Flexible Sparsity-Aware Bayesian Tensor CPD using GH prior  [\[Code\]](https://github.com/leicheng-tensor/pcpd_gh) [\[PDF\]](https://ieeexplore.ieee.org/document/9747988)
   - Reference: Lei Cheng, Zhongtao Chen, Qingjiang Shi, Yik-Chung Wu, and Sergios Theodoridis, "Towards Flexible Sparsity-Aware Modeling: Automatic Tensor Rank Learning using The Generalized Hyperbolic Prior," _IEEE Trans. on Signal Processing_, 2022.
- 
-- Bayesian Tensor Tucker Completion With a Flexible Core [\[Code\]](https://github.com/leicheng-tensor/BFCTC/tree/main) [\[PDF\]](https://ieeexplore.ieee.org/document/10305542)
-  - Reference: Xueke Tong, Lei Cheng, and Yik-Chung Wu, “Bayesian Tensor Tucker Completion With A Flexible Core,” _IEEE Trans. on Signal Processing_, 2023.
   
 - Accelerated Bayesian Tensor CPD With Nonnegative Factors [\[Code\]](https://github.com/leicheng-tensor/fast_pncpd)
   - Reference: Zhongtao Chen, Lei Cheng, and Yik-Chung Wu, "Accelerating Probabilistic Tensor Canonical Polyadic Decomposition With Nonnegative Factors: An Inexact BCD Approach," _Signal Processing_, 2023.
@@ -22,7 +19,6 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 
 - Bayesian Robust Streaming CPD and Completion [\[Code\]](https://github.com/colehawkins/Robust-Streaming-Tensor-Factorization)  [\[PDF\]](https://ieeexplore.ieee.org/document/8595009)
   - Reference: Z. Zhang and C. Hawkins, "Variational Bayesian Inference for Robust Streaming Tensor Factorization and Completion," _2018 IEEE International Conference on Data Mining (ICDM)_, 2018, pp. 1446-1451
-
 
 - Bayesian Tensor CPD with Orthogonal Factors [\[Code\]](https://github.com/leicheng-tensor/pcpd-orthogonal-) [\[PDF\]](https://ieeexplore.ieee.org/document/7555316/)
   - Reference: Lei Cheng, Yik-Chung Wu, and H. Vincent Poor, "Probabilistic Tensor Canonical Polyadic Decomposition With Orthogonal Factors," _IEEE Trans. on Signal Processing_, Vol. 65, no. 3, pp. 663-676, 2017.
@@ -34,7 +30,11 @@ Zhongtao Chen, Le Xu, Yangge Chen, Lei Cheng [\[Website\]](https://person.zju.ed
 - Bayesian Tensor CPD using Gaussian-Gamma Prior [\[Code\]](https://github.com/qbzhao/BCPF) [\[PDF\]](https://ieeexplore.ieee.org/document/7010937)
 
   - Reference: Q. Zhao, L. Zhang and A. Cichocki, "Bayesian CP Factorization of Incomplete Tensors with Automatic Rank Determination,"  _IEEE Trans. on Pattern Analysis and Machine Intelligence_, vol. 37, no. 9, pp. 1751-1763, 2015.
- 
+
+## Bayesian Tucker Decomposition
+
+- Bayesian Tensor Tucker Completion With a Flexible Core [\[Code\]](https://github.com/leicheng-tensor/BFCTC/tree/main) [\[PDF\]](https://ieeexplore.ieee.org/document/10305542)
+  - Reference: Xueke Tong, Lei Cheng, and Yik-Chung Wu, “Bayesian Tensor Tucker Completion With A Flexible Core,” _IEEE Trans. on Signal Processing_, 2023.
 
 ## Bayesian Tensor Train Decomposition
 
